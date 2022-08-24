@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
+### Hi there
 
 - 🔭 I’m currently working on ForkLineageOS
 - 🌱 I’m currently learning Device Tree

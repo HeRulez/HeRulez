@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herulez" alt="herulez" /></a> </p>
 
-- 🔭 I’m currently working on [Resurrection Remix](https://resurrectionremix.com/) 
+- 🔭 I’m currently working on [ForkLineageOS](https://github.com/ForkLineageOS) 
 
 - 🤝 Bestie [Yash Rastogi](https://github.com/yashrastogi)
 
